@@ -1,0 +1,7 @@
+name: Tower
+version: 0.1
+main: net.theuniverscraft.Tower.Tower
+depend: [GameAPI, BukkitAPI]
+commands:
+  tower:
+    usage: /<command> <args>
